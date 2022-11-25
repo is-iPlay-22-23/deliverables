@@ -4,13 +4,13 @@
  Documenti in formato .PDF e .DOCX da presentare in sede di esame. 
 
 ## Documenti disponibili aggiornati (formato .docx)
-1. Problem Statement v3.0.docx
-2. Requirements Analysis Document v4.5.5.docx
-3. System Design v3.0.docx
+1. Problem Statement v3.0.docx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Completo] [Da revisionare col tutor]
+2. Requirements Analysis Document v4.5.5.docx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Incompleto] [Chiedere chiarimenti al tutor]
+3. System Design v3.0.docx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Completo] [Da revisionare col tutor]
 --------------
 
 ## Documenti disponibili aggiornati all'ultima versione (formato .pdf)
-1. Problem Statement.pdf
-2. Requirements Analysis Document.pdf
-3. System Design.pdf
+1. Problem Statement.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Completo] [Da revisionare col tutor]
+2. Requirements Analysis Document.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Incompleto] [Chiedere chiarimenti al tutor]
+3. System Design.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Completo] [Da revisionare col tutor]
 --------------
